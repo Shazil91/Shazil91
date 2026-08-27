@@ -105,8 +105,6 @@ The system retrieves financial news, market data, and SEC information and genera
 - LLM Applications
 - RAG
 - Tool / Function Calling
-- LangGraph
-- LangChain
 - Prompt Engineering
 - Embeddings
 - Semantic Search
